@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="LightGrayColor">#bdbdbd</color>
+    <color name="LimeColor">#00FF00</color>
+    <color name="LightGreenColor">#66bb6a</color>
+    <color name="progress_popup_background">#80eeeeee</color>
+</resources>
